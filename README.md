@@ -1,6 +1,6 @@
 # OpenDataWorkshop
 This folder contains all the notes and exercise materiak for Open Data Workshop. 
-Please share!
+<br><br>Please share!</br>
 
-Cheers,
-HN
+<br><br>Cheers,</br>
+<br>HN
